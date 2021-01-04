@@ -27,8 +27,6 @@ if __name__ == '__main__':
     if _to_open == "N":
         print("The end of program!")
     else:
-        print("HERE I AM")
         URL = "https://anagramy.wybornie.com/" + _input
-        print(URL)
         browser = webdriver.Chrome(r"C:\webdrivers\chromedriver.exe")
         page = browser.get(URL)
