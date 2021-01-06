@@ -1,6 +1,6 @@
 # program 1 - Palindromes and anagrams
 
-[x] a text is passed as a input
+[x] a text is passed as an input
 
 [x] the text is printed in standard output backwords
 
